@@ -1,0 +1,26 @@
+#flower{
+  background-color: red;
+}
+#nature{
+  background-color: blue;
+}
+#wildlife{
+  background-color: purple;
+}
+h3{
+  color: red;
+  font-family: arial, times new roman, bold;
+  font-weight: bolder;
+  align-content:centre;
+}
+p{
+  color: white;
+}
+.flower{
+  color: blue;
+}
+img{
+  height:170px;
+  
+  
+}
